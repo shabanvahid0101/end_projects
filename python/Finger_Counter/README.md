@@ -20,7 +20,7 @@
 
 ```bash
 # 1. کلون پروژه
-git clone https://github.com/shabanvahid0101/top_projects.git
+git clone https://github.com/shabanvahid0101/end_projects.git
 cd top_projects/python/Finger_Counter/
 
 # 2. (اختیاری) ساخت محیط مجازی
