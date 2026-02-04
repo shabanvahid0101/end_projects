@@ -1,7 +1,7 @@
 # Japanese Vocabulary Trainer  
 **اپلیکیشن دسکتاپ آموزش لغات ژاپنی (کانجی → هیراگانا) با سیستم هوشمند مرور اشتباهات**
 
-![demo](output.gif)
+![demo](screen%20shot.png)
 
 
 ### ویژگی‌های کلیدی
